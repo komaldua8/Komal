@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **UX/UI amd Front-End Web Dev Projects**
+- 👯 I’m looking to collaborate on **UX/UI and Front-End Web Dev Projects**
 
 - 📫 How to reach me **komaldua053@gmail.com**
 <hr>
