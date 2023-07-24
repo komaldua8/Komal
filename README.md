@@ -36,7 +36,7 @@
 # 📊 GitHub Stats:
 <p>
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=komaldua8&theme=radical&hide_border=false" width = "50%" >
-    <img src="https://github-readme-stats.vercel.app/api?username=komaldua8&show_icons=true&theme=radical" alt="AyushKrSingh000" width = 46%/>
+    <img src="https://github-readme-stats.vercel.app/api?username=komaldua8&show_icons=true&theme=radical" alt="komaldua8" width = 46%/>
 </p>        
 <hr>
 
