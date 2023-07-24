@@ -11,7 +11,7 @@
 <hr>
 
 
-##💫 About Me: 
+#💫 About Me: 
 
 - 🔭 I’m currently working on **UX/UI Design and Data Structures & Algorithms**
 
